@@ -1,2 +1,2 @@
 # scripts
-Miscellaneous Bash scripts for both CentOS and Ubuntu
+Miscellaneous Bash scripts for both CentOS and Ubuntu.
